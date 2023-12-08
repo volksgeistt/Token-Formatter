@@ -10,5 +10,5 @@
 python main.py
 ```
 
-**FREE TO USE**
+**FREE TO USE **
 - Credit: Volksgeist
