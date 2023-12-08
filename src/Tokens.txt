@@ -1,0 +1,2 @@
+Add Your Tokens Here Or Drop Your Own TOKEN File Into The Folder.
+- When You Run Program It'll Ask For The Filename Where All Tokens Are Kept.
