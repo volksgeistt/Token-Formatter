@@ -6,3 +6,4 @@
 ```py
 python main.py
 ```
+**FREE TO USE**
