@@ -39,7 +39,7 @@ def main():
                         - Volksgeist
     """)
     time.sleep(1)
-    filename = input(f"{Fore.MAGENTA}Enter Filename Containing Token ( Ex: tokens.txt ) : ").strip()
+    filename = input(f"{Fore.MAGENTA}Enter Filename Containing Tokens ( Ex: tokens.txt ) : ").strip()
     if not os.path.isfile(filename):
         print(f"{Fore.RED}[ ERROR ] : File {filename} Not Found")
         return
